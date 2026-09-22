@@ -875,7 +875,7 @@ export const HOTELS = [
     contact: "0385-2443969",
     email: "reservation@theclassichotel.in",
     website: "theclassichotel.in",
-    image: "https://images.unsplash.com/photo-1551882547-ff40c0d5e93d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    image: "/classichotel.webp"
   },
   {
     id: "hotel-imphal",
